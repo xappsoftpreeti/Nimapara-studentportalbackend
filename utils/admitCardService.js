@@ -232,7 +232,10 @@ const listAvailableSemesters = async (autonomousRollNo) => {
   if (!student) return [];
 
   const master = toPlainStudent(student);
-  const programme = String(master.programme || (studentType?.startsWith('PG') ? 'PG' : 'UG')).toUpperCase();
+  const masterProgramme = String(
+    master.programme || (studentType?.startsWith('PG') ? 'PG' : 'UG')
+  ).toUpperCase();
+  const programme = masterProgramme === 'BBA' ? 'UG' : masterProgramme;
   const batch = String(master.batch || '').trim();
   const roll = master.autonomousRollNo;
 
@@ -252,6 +255,18 @@ const listAvailableSemesters = async (autonomousRollNo) => {
       studentType: resolvedType,
       examcode: plain.examcode || '',
       subjects: buildSubjectRows(plain),
+    });
+  }
+
+  if (!available.length) {
+    console.warn('No admit card subjects matched student lookup', {
+      autonomousRollNo: roll,
+      programme: masterProgramme,
+      batch,
+      studentType,
+      eligibleSemesterKeys: SEMESTER_SOURCES
+        .filter((source) => source.programme === programme && source.batch === batch)
+        .map((source) => source.key),
     });
   }
 
