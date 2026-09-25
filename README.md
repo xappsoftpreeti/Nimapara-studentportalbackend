@@ -14,20 +14,20 @@ A Node.js backend API for managing UG, PG, and BBA students with MongoDB integra
 ## Project Structure
 
 ```
-├── models/
-│   ├── UGStudent.js      # UG Student model
-│   ├── PGStudent.js      # PG Student model
-│   └── BBAStudent.js     # BBA Student model
-├── routes/
-│   ├── auth.js           # Authentication routes
-│   ├── students.js       # Student data routes
-│   └── dataImport.js     # Data import routes
-├── middleware/
-│   └── auth.js           # JWT authentication middleware
+├── server.js                 # Boot: env, db, cors, mount routes, listen
 ├── config/
-│   └── db.js             # Database connection
-├── server.js              # Main server file
-├── config.env             # Environment variables
+│   └── db.js
+├── middleware/
+│   ├── auth.js
+│   └── adminAuth.js
+├── models/                   # Mongoose schemas
+├── controllers/              # API handlers (req/res)
+├── routes/
+│   ├── student.js            # Student login, admit, grades, ABC, fees
+│   └── admin.js              # Admin login, ingest, bulk marksheet
+├── utils/                    # Shared non-HTTP helpers
+├── data/
+├── config.env
 └── package.json
 ```
 
