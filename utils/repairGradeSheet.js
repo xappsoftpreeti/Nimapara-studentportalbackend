@@ -99,6 +99,7 @@ const loadGradeSheetPayload = async (student, studentType) => {
   const roll = master.autonomousRollNo;
   const programme = String(master.programme || '').toUpperCase();
   const batch = String(master.batch || '').trim();
+  const isUgProgramme = programme === 'UG' || programme === 'BBA';
   const studentInfo = {
     name: master.name || 'N/A',
     autonomousRollNo: roll,
@@ -108,10 +109,12 @@ const loadGradeSheetPayload = async (student, studentType) => {
   };
 
   const marksheets = [];
+  const searchedCollections = [];
   let secondSem2024 = null;
   let pgSecondSem2024 = null;
 
-  if (programme === 'UG' && batch === '2024') {
+  if (isUgProgramme && batch === '2024') {
+    searchedCollections.push('firstsem-2024', '2nd-sem-2024', '3rd-sem-2024', '4th-sem-2024');
     const [sem1, sem2, sem3, sem4] = await Promise.all([
       UG2024FirstSem.findOne({ autonomousRollNo: roll }),
       UG2024SecondSem.findOne({ autonomousRollNo: roll }),
@@ -127,7 +130,8 @@ const loadGradeSheetPayload = async (student, studentType) => {
     if (sem4) marksheets.push(toMarksheetShape(sem4, student, studentType, sem4.courses || []));
   }
 
-  if (programme === 'UG' && batch === '2025') {
+  if (isUgProgramme && batch === '2025') {
+    searchedCollections.push('1st-sem-2025', '2nd-sem-2025');
     const [sem1, sem2] = await Promise.all([
       UG2025FirstSem.findOne({ autonomousRollNo: roll }),
       UG2025SecondSem.findOne({ autonomousRollNo: roll }),
@@ -137,6 +141,7 @@ const loadGradeSheetPayload = async (student, studentType) => {
   }
 
   if (programme === 'PG' && batch === '2024') {
+    searchedCollections.push('1st-sem-2024-PG', '2nd-sem-2024-PG', '3rd-sem-2024-PG', '4th-sem-2024-PG');
     const [sem1, sem2, sem3, sem4] = await Promise.all([
       PG2024FirstSem.findOne({ autonomousRollNo: roll }),
       PG2024SecondSem.findOne({ autonomousRollNo: roll }),
@@ -156,6 +161,16 @@ const loadGradeSheetPayload = async (student, studentType) => {
     if (sem4) {
       marksheets.push(toMarksheetShape(sem4, student, studentType, pgSubjectsToCourses(sem4.subjects)));
     }
+  }
+
+  if (!marksheets.length) {
+    console.warn('No marksheets matched student lookup', {
+      autonomousRollNo: roll,
+      programme,
+      batch,
+      studentType,
+      searchedCollections,
+    });
   }
 
   return {
