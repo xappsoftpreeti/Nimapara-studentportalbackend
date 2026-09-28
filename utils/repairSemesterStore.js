@@ -146,13 +146,17 @@ const mergeUgCourses = (existingCourses = [], incomingCourses = []) => {
       (row, i) => !used.has(i) && canonicalPaperKey(row.courseType) === canonicalPaperKey(incoming.courseType)
     );
     if (index < 0 && incoming.subjectName) {
+      const incomingKey = canonicalPaperKey(incoming.courseType);
       const name = String(incoming.subjectName).trim().toUpperCase();
       const matches = merged
         .map((row, i) => ({ row, i }))
-        .filter(
-          ({ row, i }) =>
-            !used.has(i) && String(row.subjectName || '').trim().toUpperCase() === name
-        );
+        .filter(({ row, i }) => {
+          if (used.has(i)) return false;
+          if (String(row.subjectName || '').trim().toUpperCase() !== name) return false;
+          const existingKey = canonicalPaperKey(row.courseType);
+          if (incomingKey && existingKey && incomingKey !== existingKey) return false;
+          return true;
+        });
       if (matches.length === 1) index = matches[0].i;
     }
     if (index < 0) {

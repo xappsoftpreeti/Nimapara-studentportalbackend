@@ -1,6 +1,6 @@
 const jwt = require('jsonwebtoken');
 const { validationResult } = require('express-validator');
-const { findStudentByRoll, enrichStudentRecord } = require('../utils/studentLookup');
+const { findStudentByRoll, enrichStudentRecord, inferBatchFromStudent } = require('../utils/studentLookup');
 
 const ADMIN_CREDENTIALS = {
   username: process.env.ADMIN_USERNAME || 'admin',
@@ -67,6 +67,7 @@ const login = async (req, res) => {
         id: studentRecord._id,
         autonomousRollNo,
         studentType,
+        batch: studentRecord.batch || inferBatchFromStudent(studentRecord) || null,
         name:
           studentRecord.name ||
           studentRecord['Name of the Students'] ||

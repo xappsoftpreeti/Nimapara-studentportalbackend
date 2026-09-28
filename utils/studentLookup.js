@@ -52,6 +52,9 @@ const resolveStudentType = (student, fallbackType) => {
 
 const inferBatchFromStudent = (student) => {
   if (student?.batch) return String(student.batch).trim();
+  const roll = String(student?.autonomousRollNo || student?.['Autonomous Roll No'] || '').toUpperCase();
+  const fromRoll = roll.match(/NAC(?:BBA)?(\d{2})/);
+  if (fromRoll) return `20${fromRoll[1]}`;
   return null;
 };
 
