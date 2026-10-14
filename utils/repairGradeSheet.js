@@ -11,6 +11,7 @@ const {
   PG2024FourthSem,
 } = require('../models/PG2024Semesters');
 const { UG2025FirstSem, UG2025SecondSem } = require('../models/UG2025Semesters');
+const { PG2025FirstSem, PG2025SecondSem } = require('../models/PG2025Semesters');
 const { toPlainStudent, applyLegacyAliases } = require('./studentLookup');
 
 const pgSubjectsToCourses = (subjects = []) =>
@@ -160,6 +161,22 @@ const loadGradeSheetPayload = async (student, studentType) => {
     }
     if (sem4) {
       marksheets.push(toMarksheetShape(sem4, student, studentType, pgSubjectsToCourses(sem4.subjects)));
+    }
+  }
+
+  if (programme === 'PG' && batch === '2025') {
+    searchedCollections.push('1st-sem-2025-PG', '2nd-sem-2025-PG');
+    const [sem1, sem2] = await Promise.all([
+      PG2025FirstSem.findOne({ autonomousRollNo: roll }),
+      PG2025SecondSem.findOne({ autonomousRollNo: roll }),
+    ]);
+    // Only publish semesters that actually have marks (sem 2 currently has paper names only).
+    const hasMarks = (sem) => sem && (sem.subjects || []).some((s) => s.marks != null);
+    if (hasMarks(sem1)) {
+      marksheets.push(toMarksheetShape(sem1, student, studentType, pgSubjectsToCourses(sem1.subjects)));
+    }
+    if (hasMarks(sem2)) {
+      marksheets.push(toMarksheetShape(sem2, student, studentType, pgSubjectsToCourses(sem2.subjects)));
     }
   }
 

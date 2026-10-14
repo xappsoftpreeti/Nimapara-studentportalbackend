@@ -1,0 +1,4195 @@
+{
+  "batch": "2025",
+  "programme": "PG",
+  "semester": 1,
+  "students": [
+    {
+      "collegeRollNo": "ODIA25-001",
+      "autonomousRollNo": "111NAC25001",
+      "examcode": 459836,
+      "name": "MADHUSMITA ACHARYA",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 26,
+          "finalMark": 57
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 25,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 27,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 26,
+          "finalMark": 54
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-002",
+      "autonomousRollNo": "111NAC25002",
+      "examcode": 847957,
+      "name": "ANANYA ANINDITA KAR",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 27,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 27,
+          "finalMark": 58
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 28,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 27,
+          "finalMark": 55
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-004",
+      "autonomousRollNo": "111NAC25003",
+      "examcode": 776422,
+      "name": "BARSHA SAHOO",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 24,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 25,
+          "finalMark": 53
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 25,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 25,
+          "finalMark": 56
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-006",
+      "autonomousRollNo": "111NAC25004",
+      "examcode": 296268,
+      "name": "JARMANI JALLY",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 26,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 26,
+          "finalMark": 55
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 27,
+          "finalMark": 55
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 25,
+          "finalMark": 55
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-007",
+      "autonomousRollNo": "111NAC25005",
+      "examcode": 139442,
+      "name": "TARINI JENA",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 26,
+          "finalMark": 48
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 25,
+          "finalMark": 55
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 25,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 25,
+          "finalMark": 54
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-008",
+      "autonomousRollNo": "111NAC25006",
+      "examcode": 226391,
+      "name": "LOPAMUDRA GUIN",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 27,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 27,
+          "finalMark": 58
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 26,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 25,
+          "finalMark": 55
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-009",
+      "autonomousRollNo": "111NAC25007",
+      "examcode": 912957,
+      "name": "ANUPAMA BEHERA",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 24,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 24,
+          "finalMark": 54
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 21,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 25,
+          "finalMark": 51
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-012",
+      "autonomousRollNo": "111NAC25008",
+      "examcode": 166323,
+      "name": "ARATI SWAIN",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 26,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 27,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 27,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 25,
+          "finalMark": 53
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-013",
+      "autonomousRollNo": "111NAC25009",
+      "examcode": 273539,
+      "name": "SMRUTI BHARATI BHOI",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 25,
+          "finalMark": 58
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 26,
+          "finalMark": 50
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 27,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 16,
+          "finalMark": 50
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-016",
+      "autonomousRollNo": "111NAC25010",
+      "examcode": 612731,
+      "name": "TAPASWINI BHOI",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 25,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 26,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 27,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 26,
+          "finalMark": 56
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-017",
+      "autonomousRollNo": "111NAC25011",
+      "examcode": 279994,
+      "name": "BANANI BHOI",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 27,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 28,
+          "finalMark": 43
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 15,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 27,
+          "finalMark": 50
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-022",
+      "autonomousRollNo": "111NAC25012",
+      "examcode": 142173,
+      "name": "DHANURJAYA PRADHAN",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 25,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 25,
+          "finalMark": 52
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 24,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 24,
+          "finalMark": 55
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-026",
+      "autonomousRollNo": "111NAC25013",
+      "examcode": 484344,
+      "name": "TRUPTIREKHA PRADHAN",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 26,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 26,
+          "finalMark": 57
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 26,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 25,
+          "finalMark": 57
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-027",
+      "autonomousRollNo": "111NAC25014",
+      "examcode": 934317,
+      "name": "MONALISA MOHANTY",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 26,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 25,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 20,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 25,
+          "finalMark": 54
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-029",
+      "autonomousRollNo": "111NAC25015",
+      "examcode": 132756,
+      "name": "SUJATA SWAIN",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 27,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 26,
+          "finalMark": 58
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 26,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 25,
+          "finalMark": 56
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-031",
+      "autonomousRollNo": "111NAC25016",
+      "examcode": 155361,
+      "name": "NIBEDITA SWAIN",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 0,
+          "finalMark": 0
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-032",
+      "autonomousRollNo": "111NAC25017",
+      "examcode": 991524,
+      "name": "RASMITA PATTANAIK",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 25,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 24,
+          "finalMark": 55
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 22,
+          "finalMark": 53
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 22,
+          "finalMark": 51
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-033",
+      "autonomousRollNo": "111NAC25018",
+      "examcode": 735761,
+      "name": "ITISHREE PRADHAN",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 25,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 24,
+          "finalMark": 51
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 22,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 22,
+          "finalMark": 53
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-034",
+      "autonomousRollNo": "111NAC25019",
+      "examcode": 731342,
+      "name": "KANHA BEHERA",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 24,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 24,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 22,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 20,
+          "finalMark": 53
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-035",
+      "autonomousRollNo": "111NAC25020",
+      "examcode": 268847,
+      "name": "ALISHA MOHANTY",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 28,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 25,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 24,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 25,
+          "finalMark": 60
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-036",
+      "autonomousRollNo": "111NAC25021",
+      "examcode": 969669,
+      "name": "DEBAJANI LENKA",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 27,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 26,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 26,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 27,
+          "finalMark": 55
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-037",
+      "autonomousRollNo": "111NAC25022",
+      "examcode": 173163,
+      "name": "PRATIKSHYA PRIYADARSHINI",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 26,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 26,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 25,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 25,
+          "finalMark": 57
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-038",
+      "autonomousRollNo": "111NAC25023",
+      "examcode": 643516,
+      "name": "YOGITA MALLICK",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 15,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 23,
+          "finalMark": 53
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 21,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 23,
+          "finalMark": 56
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-039",
+      "autonomousRollNo": "111NAC25024",
+      "examcode": 859412,
+      "name": "GEETA BEHERA",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 25,
+          "finalMark": 41
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 23,
+          "finalMark": 51
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 22,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 20,
+          "finalMark": 55
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-040",
+      "autonomousRollNo": "111NAC25025",
+      "examcode": 349774,
+      "name": "SARADA TANMAYA MOHAPATRA",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 25,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 25,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 26,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 26,
+          "finalMark": 54
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-042",
+      "autonomousRollNo": "111NAC25026",
+      "examcode": 319123,
+      "name": "ANITA PRADHAN",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 25,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 24,
+          "finalMark": 54
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 22,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 23,
+          "finalMark": 54
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-043",
+      "autonomousRollNo": "111NAC25027",
+      "examcode": 982863,
+      "name": "PRIYADARSHINI MOHANTY",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 26,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 25,
+          "finalMark": 51
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 26,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 27,
+          "finalMark": 56
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-044",
+      "autonomousRollNo": "111NAC25028",
+      "examcode": 466233,
+      "name": "POOJA PARIDA",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 25,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 24,
+          "finalMark": 51
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 24,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 25,
+          "finalMark": 53
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "ODIA25-045",
+      "autonomousRollNo": "111NAC25029",
+      "examcode": 294921,
+      "name": "SOUMYA RANJAN DASH",
+      "department": "Odia",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Purana O Prachina Kabya Kabita",
+          "midsemMark": 24,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Adhunika Kabya Kabita1",
+          "midsemMark": 24,
+          "finalMark": 51
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Katha sahitya",
+          "midsemMark": 24,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Gadya sahitya",
+          "midsemMark": 25,
+          "finalMark": 46
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "CHEM25-001",
+      "autonomousRollNo": "153NAC25001",
+      "examcode": 457189,
+      "name": "ABINASH SAHOO",
+      "department": "Chemistry",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Inorganic chem 1",
+          "midsemMark": 20,
+          "finalMark": 47
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Organic chem 1",
+          "midsemMark": 20,
+          "finalMark": 40
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Physical chemistry 1",
+          "midsemMark": 20,
+          "finalMark": 35
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Inorganic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 49
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Organic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 47
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Spectroscopy 1",
+          "midsemMark": 20,
+          "finalMark": 31
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "Computer for chemist",
+          "midsemMark": 20,
+          "finalMark": 44
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "CHEM25-002",
+      "autonomousRollNo": "153NAC25002",
+      "examcode": 183761,
+      "name": "RUDRA MADHAB MOHAPATRA",
+      "department": "Chemistry",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Inorganic chem 1",
+          "midsemMark": 20,
+          "finalMark": 46
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Organic chem 1",
+          "midsemMark": 20,
+          "finalMark": 43
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Physical chemistry 1",
+          "midsemMark": 20,
+          "finalMark": 46
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Inorganic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 49
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Organic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 47
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Spectroscopy 1",
+          "midsemMark": 20,
+          "finalMark": 45
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "Computer for chemist",
+          "midsemMark": 20,
+          "finalMark": 47
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "CHEM25-003",
+      "autonomousRollNo": "153NAC25003",
+      "examcode": 668924,
+      "name": "DIPTIMAYEE NAYAK",
+      "department": "Chemistry",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Inorganic chem 1",
+          "midsemMark": 17,
+          "finalMark": 37
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Organic chem 1",
+          "midsemMark": 18,
+          "finalMark": 40
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Physical chemistry 1",
+          "midsemMark": 20,
+          "finalMark": 34
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Inorganic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 48
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Organic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 47
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Spectroscopy 1",
+          "midsemMark": 20,
+          "finalMark": 36
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "Computer for chemist",
+          "midsemMark": 19,
+          "finalMark": 29
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "CHEM25-007",
+      "autonomousRollNo": "153NAC25004",
+      "examcode": 119691,
+      "name": "ABHILIPSA MAHAPATRA",
+      "department": "Chemistry",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Inorganic chem 1",
+          "midsemMark": 20,
+          "finalMark": 45
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Organic chem 1",
+          "midsemMark": 18,
+          "finalMark": 38
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Physical chemistry 1",
+          "midsemMark": 20,
+          "finalMark": 36
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Inorganic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 48
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Organic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 48
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Spectroscopy 1",
+          "midsemMark": 20,
+          "finalMark": 38
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "Computer for chemist",
+          "midsemMark": 19,
+          "finalMark": 44
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "CHEM25-009",
+      "autonomousRollNo": "153NAC25005",
+      "examcode": 258168,
+      "name": "SOUMYANJALI MOHANTY",
+      "department": "Chemistry",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Inorganic chem 1",
+          "midsemMark": 17,
+          "finalMark": 36
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Organic chem 1",
+          "midsemMark": 19,
+          "finalMark": 22
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Physical chemistry 1",
+          "midsemMark": 19,
+          "finalMark": 21
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Inorganic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 49
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Organic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 47
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Spectroscopy 1",
+          "midsemMark": 19,
+          "finalMark": 20
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "Computer for chemist",
+          "midsemMark": 17,
+          "finalMark": 34
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "CHEM25-010",
+      "autonomousRollNo": "153NAC25006",
+      "examcode": 532265,
+      "name": "PRITEE ANUDIPTEE",
+      "department": "Chemistry",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Inorganic chem 1",
+          "midsemMark": 20,
+          "finalMark": 40
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Organic chem 1",
+          "midsemMark": 19,
+          "finalMark": 38
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Physical chemistry 1",
+          "midsemMark": 20,
+          "finalMark": 33
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Inorganic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 48
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Organic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 47
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Spectroscopy 1",
+          "midsemMark": 20,
+          "finalMark": 24
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "Computer for chemist",
+          "midsemMark": 17,
+          "finalMark": 44
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "CHEM25-011",
+      "autonomousRollNo": "153NAC25007",
+      "examcode": 563255,
+      "name": "BARSHA PANI",
+      "department": "Chemistry",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Inorganic chem 1",
+          "midsemMark": 19,
+          "finalMark": 44
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Organic chem 1",
+          "midsemMark": 18,
+          "finalMark": 30
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Physical chemistry 1",
+          "midsemMark": 19,
+          "finalMark": 41
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Inorganic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 48
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Organic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 47
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Spectroscopy 1",
+          "midsemMark": 20,
+          "finalMark": 37
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "Computer for chemist",
+          "midsemMark": 14,
+          "finalMark": 35
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "CHEM25-012",
+      "autonomousRollNo": "153NAC25008",
+      "examcode": 673167,
+      "name": "ANANYA APARUPA KAR",
+      "department": "Chemistry",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Inorganic chem 1",
+          "midsemMark": 18,
+          "finalMark": 45
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Organic chem 1",
+          "midsemMark": 19,
+          "finalMark": 38
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Physical chemistry 1",
+          "midsemMark": 20,
+          "finalMark": 31
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Inorganic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 48
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Organic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 48
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Spectroscopy 1",
+          "midsemMark": 20,
+          "finalMark": 31
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "Computer for chemist",
+          "midsemMark": 17,
+          "finalMark": 44
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "CHEM25-013",
+      "autonomousRollNo": "153NAC25009",
+      "examcode": 998884,
+      "name": "JYOTIRMAYEE SAHOO",
+      "department": "Chemistry",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Inorganic chem 1",
+          "midsemMark": 18,
+          "finalMark": 41
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Organic chem 1",
+          "midsemMark": 18,
+          "finalMark": 30
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Physical chemistry 1",
+          "midsemMark": 20,
+          "finalMark": 28
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Inorganic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 48
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Organic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 48
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Spectroscopy 1",
+          "midsemMark": 20,
+          "finalMark": 33
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "Computer for chemist",
+          "midsemMark": 16,
+          "finalMark": 43
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "CHEM25-014",
+      "autonomousRollNo": "153NAC25010",
+      "examcode": 786497,
+      "name": "RASMITA ROUT",
+      "department": "Chemistry",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Inorganic chem 1",
+          "midsemMark": 17,
+          "finalMark": 36
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Organic chem 1",
+          "midsemMark": 18,
+          "finalMark": 14
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Physical chemistry 1",
+          "midsemMark": 18,
+          "finalMark": 25
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Inorganic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 46
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Organic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 48
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Spectroscopy 1",
+          "midsemMark": 18,
+          "finalMark": 19
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "Computer for chemist",
+          "midsemMark": 10,
+          "finalMark": 25
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "CHEM25-015",
+      "autonomousRollNo": "153NAC25011",
+      "examcode": 644481,
+      "name": "SK SHAHID RAZA",
+      "department": "Chemistry",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Inorganic chem 1",
+          "midsemMark": 18,
+          "finalMark": 44
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Organic chem 1",
+          "midsemMark": 18,
+          "finalMark": 29
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Physical chemistry 1",
+          "midsemMark": 18,
+          "finalMark": 37
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Inorganic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 47
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Organic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 47
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Spectroscopy 1",
+          "midsemMark": 19,
+          "finalMark": 35
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "Computer for chemist",
+          "midsemMark": 20,
+          "finalMark": 35
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "CHEM25-016",
+      "autonomousRollNo": "153NAC25012",
+      "examcode": 876325,
+      "name": "ABINASH PANDA",
+      "department": "Chemistry",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Inorganic chem 1",
+          "midsemMark": 17,
+          "finalMark": 36
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Organic chem 1",
+          "midsemMark": 17,
+          "finalMark": 15
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Physical chemistry 1",
+          "midsemMark": 18,
+          "finalMark": 32
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Inorganic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 47
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Organic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 47
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Spectroscopy 1",
+          "midsemMark": 19,
+          "finalMark": 32
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "Computer for chemist",
+          "midsemMark": 18,
+          "finalMark": 38
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "CHEM25-017",
+      "autonomousRollNo": "153NAC25013",
+      "examcode": 832114,
+      "name": "JAJNASENI MISHRA",
+      "department": "Chemistry",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Inorganic chem 1",
+          "midsemMark": 20,
+          "finalMark": 42
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Organic chem 1",
+          "midsemMark": 18,
+          "finalMark": 30
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Physical chemistry 1",
+          "midsemMark": 18,
+          "finalMark": 30
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Inorganic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 48
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Organic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 47
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Spectroscopy 1",
+          "midsemMark": 19,
+          "finalMark": 28
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "Computer for chemist",
+          "midsemMark": 10,
+          "finalMark": 40
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "CHEM25-019",
+      "autonomousRollNo": "153NAC25014",
+      "examcode": 283725,
+      "name": "LINARANI BEHERA",
+      "department": "Chemistry",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Inorganic chem 1",
+          "midsemMark": 17,
+          "finalMark": 29
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Organic chem 1",
+          "midsemMark": 18,
+          "finalMark": 14
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Physical chemistry 1",
+          "midsemMark": 18,
+          "finalMark": 25
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Inorganic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 47
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Organic Chemistry Practical -1",
+          "midsemMark": null,
+          "finalMark": 47
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Spectroscopy 1",
+          "midsemMark": 18,
+          "finalMark": 31
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "Computer for chemist",
+          "midsemMark": 14,
+          "finalMark": 34
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MATH25-001",
+      "autonomousRollNo": "156NAC25001",
+      "examcode": 684584,
+      "name": "URMILA NAYAK",
+      "department": "Math",
+      "courses": [
+        {
+          "paper": "Paper-MTC-101",
+          "paperName": "Real analysis",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper-MTC-102",
+          "paperName": "Complex analysis",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper-MTC-103",
+          "paperName": "Topology",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper-MTC-104",
+          "paperName": "Advance abstract algebra",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper-MTC-105",
+          "paperName": "Data Processing And Numerical Computing Lab",
+          "midsemMark": 0,
+          "finalMark": 0
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MATH25-002",
+      "autonomousRollNo": "156NAC25002",
+      "examcode": 594135,
+      "name": "SWAGATIKA SWAIN",
+      "department": "Math",
+      "courses": [
+        {
+          "paper": "Paper-MTC-101",
+          "paperName": "Real analysis",
+          "midsemMark": 28,
+          "finalMark": 51
+        },
+        {
+          "paper": "Paper-MTC-102",
+          "paperName": "Complex analysis",
+          "midsemMark": 23,
+          "finalMark": 46
+        },
+        {
+          "paper": "Paper-MTC-103",
+          "paperName": "Topology",
+          "midsemMark": 28,
+          "finalMark": 49
+        },
+        {
+          "paper": "Paper-MTC-104",
+          "paperName": "Advance abstract algebra",
+          "midsemMark": 30,
+          "finalMark": 53
+        },
+        {
+          "paper": "Paper-MTC-105",
+          "paperName": "Data Processing And Numerical Computing Lab",
+          "midsemMark": 25,
+          "finalMark": 62
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MATH25-003",
+      "autonomousRollNo": "156NAC25003",
+      "examcode": 793757,
+      "name": "MAMALI SWAIN",
+      "department": "Math",
+      "courses": [
+        {
+          "paper": "Paper-MTC-101",
+          "paperName": "Real analysis",
+          "midsemMark": 25,
+          "finalMark": 55
+        },
+        {
+          "paper": "Paper-MTC-102",
+          "paperName": "Complex analysis",
+          "midsemMark": 20,
+          "finalMark": 52
+        },
+        {
+          "paper": "Paper-MTC-103",
+          "paperName": "Topology",
+          "midsemMark": 28,
+          "finalMark": 48
+        },
+        {
+          "paper": "Paper-MTC-104",
+          "paperName": "Advance abstract algebra",
+          "midsemMark": 30,
+          "finalMark": 54
+        },
+        {
+          "paper": "Paper-MTC-105",
+          "paperName": "Data Processing And Numerical Computing Lab",
+          "midsemMark": 26,
+          "finalMark": 65
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MATH25-004",
+      "autonomousRollNo": "156NAC25004",
+      "examcode": 891738,
+      "name": "LIMARANI PARIDA",
+      "department": "Math",
+      "courses": [
+        {
+          "paper": "Paper-MTC-101",
+          "paperName": "Real analysis",
+          "midsemMark": 30,
+          "finalMark": 55
+        },
+        {
+          "paper": "Paper-MTC-102",
+          "paperName": "Complex analysis",
+          "midsemMark": 30,
+          "finalMark": 48
+        },
+        {
+          "paper": "Paper-MTC-103",
+          "paperName": "Topology",
+          "midsemMark": 30,
+          "finalMark": 44
+        },
+        {
+          "paper": "Paper-MTC-104",
+          "paperName": "Advance abstract algebra",
+          "midsemMark": 30,
+          "finalMark": 58
+        },
+        {
+          "paper": "Paper-MTC-105",
+          "paperName": "Data Processing And Numerical Computing Lab",
+          "midsemMark": 24,
+          "finalMark": 63
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MATH25-005",
+      "autonomousRollNo": "156NAC25005",
+      "examcode": 954356,
+      "name": "OM NARAYAN SWAIN",
+      "department": "Math",
+      "courses": [
+        {
+          "paper": "Paper-MTC-101",
+          "paperName": "Real analysis",
+          "midsemMark": 24,
+          "finalMark": 40
+        },
+        {
+          "paper": "Paper-MTC-102",
+          "paperName": "Complex analysis",
+          "midsemMark": 20,
+          "finalMark": 41
+        },
+        {
+          "paper": "Paper-MTC-103",
+          "paperName": "Topology",
+          "midsemMark": 28,
+          "finalMark": 41
+        },
+        {
+          "paper": "Paper-MTC-104",
+          "paperName": "Advance abstract algebra",
+          "midsemMark": 30,
+          "finalMark": 46
+        },
+        {
+          "paper": "Paper-MTC-105",
+          "paperName": "Data Processing And Numerical Computing Lab",
+          "midsemMark": 25,
+          "finalMark": 64
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MATH25-006",
+      "autonomousRollNo": "156NAC25006",
+      "examcode": 564666,
+      "name": "JYOTIRMAYA BEHERA",
+      "department": "Math",
+      "courses": [
+        {
+          "paper": "Paper-MTC-101",
+          "paperName": "Real analysis",
+          "midsemMark": 29,
+          "finalMark": 58
+        },
+        {
+          "paper": "Paper-MTC-102",
+          "paperName": "Complex analysis",
+          "midsemMark": 27,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper-MTC-103",
+          "paperName": "Topology",
+          "midsemMark": 30,
+          "finalMark": 54
+        },
+        {
+          "paper": "Paper-MTC-104",
+          "paperName": "Advance abstract algebra",
+          "midsemMark": 30,
+          "finalMark": 48
+        },
+        {
+          "paper": "Paper-MTC-105",
+          "paperName": "Data Processing And Numerical Computing Lab",
+          "midsemMark": 26,
+          "finalMark": 61
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MATH25-008",
+      "autonomousRollNo": "156NAC25007",
+      "examcode": 159932,
+      "name": "ASHISA KUMAR BEURA",
+      "department": "Math",
+      "courses": [
+        {
+          "paper": "Paper-MTC-101",
+          "paperName": "Real analysis",
+          "midsemMark": 21,
+          "finalMark": 35
+        },
+        {
+          "paper": "Paper-MTC-102",
+          "paperName": "Complex analysis",
+          "midsemMark": 25,
+          "finalMark": 40
+        },
+        {
+          "paper": "Paper-MTC-103",
+          "paperName": "Topology",
+          "midsemMark": 28,
+          "finalMark": 46
+        },
+        {
+          "paper": "Paper-MTC-104",
+          "paperName": "Advance abstract algebra",
+          "midsemMark": 28,
+          "finalMark": 35
+        },
+        {
+          "paper": "Paper-MTC-105",
+          "paperName": "Data Processing And Numerical Computing Lab",
+          "midsemMark": 26,
+          "finalMark": 64
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MATH25-010",
+      "autonomousRollNo": "156NAC25008",
+      "examcode": 415331,
+      "name": "PRIYANKA SAHOO",
+      "department": "Math",
+      "courses": [
+        {
+          "paper": "Paper-MTC-101",
+          "paperName": "Real analysis",
+          "midsemMark": 30,
+          "finalMark": 51
+        },
+        {
+          "paper": "Paper-MTC-102",
+          "paperName": "Complex analysis",
+          "midsemMark": 26,
+          "finalMark": 57
+        },
+        {
+          "paper": "Paper-MTC-103",
+          "paperName": "Topology",
+          "midsemMark": 28,
+          "finalMark": 47
+        },
+        {
+          "paper": "Paper-MTC-104",
+          "paperName": "Advance abstract algebra",
+          "midsemMark": 30,
+          "finalMark": 54
+        },
+        {
+          "paper": "Paper-MTC-105",
+          "paperName": "Data Processing And Numerical Computing Lab",
+          "midsemMark": 25,
+          "finalMark": 63
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MATH25-011",
+      "autonomousRollNo": "156NAC25009",
+      "examcode": 785134,
+      "name": "SUBHRAJYOTI MISHRA",
+      "department": "Math",
+      "courses": [
+        {
+          "paper": "Paper-MTC-101",
+          "paperName": "Real analysis",
+          "midsemMark": 20,
+          "finalMark": 51
+        },
+        {
+          "paper": "Paper-MTC-102",
+          "paperName": "Complex analysis",
+          "midsemMark": 22,
+          "finalMark": 45
+        },
+        {
+          "paper": "Paper-MTC-103",
+          "paperName": "Topology",
+          "midsemMark": 25,
+          "finalMark": 46
+        },
+        {
+          "paper": "Paper-MTC-104",
+          "paperName": "Advance abstract algebra",
+          "midsemMark": 22,
+          "finalMark": 50
+        },
+        {
+          "paper": "Paper-MTC-105",
+          "paperName": "Data Processing And Numerical Computing Lab",
+          "midsemMark": 26,
+          "finalMark": 62
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MATH25-012",
+      "autonomousRollNo": "156NAC25010",
+      "examcode": 766886,
+      "name": "RONALI PRADHAN",
+      "department": "Math",
+      "courses": [
+        {
+          "paper": "Paper-MTC-101",
+          "paperName": "Real analysis",
+          "midsemMark": 30,
+          "finalMark": 54
+        },
+        {
+          "paper": "Paper-MTC-102",
+          "paperName": "Complex analysis",
+          "midsemMark": 27,
+          "finalMark": 61
+        },
+        {
+          "paper": "Paper-MTC-103",
+          "paperName": "Topology",
+          "midsemMark": 29,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper-MTC-104",
+          "paperName": "Advance abstract algebra",
+          "midsemMark": 30,
+          "finalMark": 51
+        },
+        {
+          "paper": "Paper-MTC-105",
+          "paperName": "Data Processing And Numerical Computing Lab",
+          "midsemMark": 24,
+          "finalMark": 65
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MATH25-013",
+      "autonomousRollNo": "156NAC25011",
+      "examcode": 119742,
+      "name": "BISWAJIT BISWAL",
+      "department": "Math",
+      "courses": [
+        {
+          "paper": "Paper-MTC-101",
+          "paperName": "Real analysis",
+          "midsemMark": 20,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper-MTC-102",
+          "paperName": "Complex analysis",
+          "midsemMark": 24,
+          "finalMark": 35
+        },
+        {
+          "paper": "Paper-MTC-103",
+          "paperName": "Topology",
+          "midsemMark": 25,
+          "finalMark": 54
+        },
+        {
+          "paper": "Paper-MTC-104",
+          "paperName": "Advance abstract algebra",
+          "midsemMark": 27,
+          "finalMark": 51
+        },
+        {
+          "paper": "Paper-MTC-105",
+          "paperName": "Data Processing And Numerical Computing Lab",
+          "midsemMark": 26,
+          "finalMark": 63
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MATH25-014",
+      "autonomousRollNo": "156NAC25012",
+      "examcode": 189887,
+      "name": "ARPITA NAYAK",
+      "department": "Math",
+      "courses": [
+        {
+          "paper": "Paper-MTC-101",
+          "paperName": "Real analysis",
+          "midsemMark": 20,
+          "finalMark": 43
+        },
+        {
+          "paper": "Paper-MTC-102",
+          "paperName": "Complex analysis",
+          "midsemMark": 20,
+          "finalMark": 35
+        },
+        {
+          "paper": "Paper-MTC-103",
+          "paperName": "Topology",
+          "midsemMark": 28,
+          "finalMark": 43
+        },
+        {
+          "paper": "Paper-MTC-104",
+          "paperName": "Advance abstract algebra",
+          "midsemMark": 21,
+          "finalMark": 43
+        },
+        {
+          "paper": "Paper-MTC-105",
+          "paperName": "Data Processing And Numerical Computing Lab",
+          "midsemMark": 25,
+          "finalMark": 63
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MATH25-015",
+      "autonomousRollNo": "156NAC25013",
+      "examcode": 951559,
+      "name": "BIBHUPADA BEHERA",
+      "department": "Math",
+      "courses": [
+        {
+          "paper": "Paper-MTC-101",
+          "paperName": "Real analysis",
+          "midsemMark": 26,
+          "finalMark": 52
+        },
+        {
+          "paper": "Paper-MTC-102",
+          "paperName": "Complex analysis",
+          "midsemMark": 26,
+          "finalMark": 50
+        },
+        {
+          "paper": "Paper-MTC-103",
+          "paperName": "Topology",
+          "midsemMark": 28,
+          "finalMark": 46
+        },
+        {
+          "paper": "Paper-MTC-104",
+          "paperName": "Advance abstract algebra",
+          "midsemMark": 30,
+          "finalMark": 47
+        },
+        {
+          "paper": "Paper-MTC-105",
+          "paperName": "Data Processing And Numerical Computing Lab",
+          "midsemMark": 25,
+          "finalMark": 64
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MATH25-016",
+      "autonomousRollNo": "156NAC25014",
+      "examcode": 961153,
+      "name": "ASMITA OJHA",
+      "department": "Math",
+      "courses": [
+        {
+          "paper": "Paper-MTC-101",
+          "paperName": "Real analysis",
+          "midsemMark": 28,
+          "finalMark": 47
+        },
+        {
+          "paper": "Paper-MTC-102",
+          "paperName": "Complex analysis",
+          "midsemMark": 28,
+          "finalMark": 49
+        },
+        {
+          "paper": "Paper-MTC-103",
+          "paperName": "Topology",
+          "midsemMark": 28,
+          "finalMark": 48
+        },
+        {
+          "paper": "Paper-MTC-104",
+          "paperName": "Advance abstract algebra",
+          "midsemMark": 30,
+          "finalMark": 47
+        },
+        {
+          "paper": "Paper-MTC-105",
+          "paperName": "Data Processing And Numerical Computing Lab",
+          "midsemMark": 25,
+          "finalMark": 62
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MATH25-017",
+      "autonomousRollNo": "156NAC25015",
+      "examcode": 373352,
+      "name": "SUSHREESMITA PRADHAN",
+      "department": "Math",
+      "courses": [
+        {
+          "paper": "Paper-MTC-101",
+          "paperName": "Real analysis",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper-MTC-102",
+          "paperName": "Complex analysis",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper-MTC-103",
+          "paperName": "Topology",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper-MTC-104",
+          "paperName": "Advance abstract algebra",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper-MTC-105",
+          "paperName": "Data Processing And Numerical Computing Lab",
+          "midsemMark": 0,
+          "finalMark": 0
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "COMM25-002",
+      "autonomousRollNo": "181NAC25001",
+      "examcode": 225281,
+      "name": "SUBHALAXMI BHOI",
+      "department": "Commerce",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Management Concept And Practices",
+          "midsemMark": 27,
+          "finalMark": 63
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Statistic management",
+          "midsemMark": 30,
+          "finalMark": 62
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Corporate Financial Accounting",
+          "midsemMark": 30,
+          "finalMark": 64
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Financial management",
+          "midsemMark": 28,
+          "finalMark": 63
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Accounting For Managerial Decission Making",
+          "midsemMark": 30,
+          "finalMark": 62
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Risk And Insurance Management",
+          "midsemMark": 28,
+          "finalMark": 65
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "COMM25-003",
+      "autonomousRollNo": "181NAC25002",
+      "examcode": 577396,
+      "name": "BANDANA MOHAPATRA",
+      "department": "Commerce",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Management Concept And Practices",
+          "midsemMark": 28,
+          "finalMark": 57
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Statistic management",
+          "midsemMark": 30,
+          "finalMark": 59
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Corporate Financial Accounting",
+          "midsemMark": 26,
+          "finalMark": 59
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Financial management",
+          "midsemMark": 27,
+          "finalMark": 61
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Accounting For Managerial Decission Making",
+          "midsemMark": 30,
+          "finalMark": 59
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Risk And Insurance Management",
+          "midsemMark": 28,
+          "finalMark": 61
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "COMM25-004",
+      "autonomousRollNo": "181NAC25003",
+      "examcode": 395386,
+      "name": "SUBHASMITA NAYAK",
+      "department": "Commerce",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Management Concept And Practices",
+          "midsemMark": 26,
+          "finalMark": 61
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Statistic management",
+          "midsemMark": 27,
+          "finalMark": 58
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Corporate Financial Accounting",
+          "midsemMark": 30,
+          "finalMark": 58
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Financial management",
+          "midsemMark": 27,
+          "finalMark": 58
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Accounting For Managerial Decission Making",
+          "midsemMark": 30,
+          "finalMark": 58
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Risk And Insurance Management",
+          "midsemMark": 26,
+          "finalMark": 62
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "COMM25-005",
+      "autonomousRollNo": "181NAC25004",
+      "examcode": 757185,
+      "name": "IPSITA DAS",
+      "department": "Commerce",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Management Concept And Practices",
+          "midsemMark": 28,
+          "finalMark": 61
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Statistic management",
+          "midsemMark": 30,
+          "finalMark": 63
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Corporate Financial Accounting",
+          "midsemMark": 30,
+          "finalMark": 64
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Financial management",
+          "midsemMark": 28,
+          "finalMark": 64
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Accounting For Managerial Decission Making",
+          "midsemMark": 30,
+          "finalMark": 61
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Risk And Insurance Management",
+          "midsemMark": 28,
+          "finalMark": 65
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "COMM25-006",
+      "autonomousRollNo": "181NAC25005",
+      "examcode": 257159,
+      "name": "ARPITA NAYAK",
+      "department": "Commerce",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Management Concept And Practices",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Statistic management",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Corporate Financial Accounting",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Financial management",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Accounting For Managerial Decission Making",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Risk And Insurance Management",
+          "midsemMark": 0,
+          "finalMark": 0
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "COMM25-007",
+      "autonomousRollNo": "181NAC25006",
+      "examcode": 973813,
+      "name": "SANGITA NAYAK",
+      "department": "Commerce",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Management Concept And Practices",
+          "midsemMark": 28,
+          "finalMark": 54
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Statistic management",
+          "midsemMark": 30,
+          "finalMark": 54
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Corporate Financial Accounting",
+          "midsemMark": 30,
+          "finalMark": 58
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Financial management",
+          "midsemMark": 27,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Accounting For Managerial Decission Making",
+          "midsemMark": 30,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Risk And Insurance Management",
+          "midsemMark": 27,
+          "finalMark": 60
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "COMM25-008",
+      "autonomousRollNo": "181NAC25007",
+      "examcode": 213292,
+      "name": "DIPIKA SAHOO",
+      "department": "Commerce",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Management Concept And Practices",
+          "midsemMark": 28,
+          "finalMark": 62
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Statistic management",
+          "midsemMark": 30,
+          "finalMark": 59
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Corporate Financial Accounting",
+          "midsemMark": 26,
+          "finalMark": 59
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Financial management",
+          "midsemMark": 27,
+          "finalMark": 65
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Accounting For Managerial Decission Making",
+          "midsemMark": 30,
+          "finalMark": 59
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Risk And Insurance Management",
+          "midsemMark": 27,
+          "finalMark": 66
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "COMM25-009",
+      "autonomousRollNo": "181NAC25008",
+      "examcode": 121621,
+      "name": "ASHUTOSH PRADHAN",
+      "department": "Commerce",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Management Concept And Practices",
+          "midsemMark": 27,
+          "finalMark": 55
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Statistic management",
+          "midsemMark": 30,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Corporate Financial Accounting",
+          "midsemMark": 30,
+          "finalMark": 54
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Financial management",
+          "midsemMark": 27,
+          "finalMark": 57
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Accounting For Managerial Decission Making",
+          "midsemMark": 30,
+          "finalMark": 53
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Risk And Insurance Management",
+          "midsemMark": 26,
+          "finalMark": 55
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "COMM25-010",
+      "autonomousRollNo": "181NAC25009",
+      "examcode": 738231,
+      "name": "TRUPTIMAYEE MALLICK",
+      "department": "Commerce",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Management Concept And Practices",
+          "midsemMark": 28,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Statistic management",
+          "midsemMark": 30,
+          "finalMark": 46
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Corporate Financial Accounting",
+          "midsemMark": 30,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Financial management",
+          "midsemMark": 27,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Accounting For Managerial Decission Making",
+          "midsemMark": 30,
+          "finalMark": 52
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Risk And Insurance Management",
+          "midsemMark": 28,
+          "finalMark": 56
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "COMM25-011",
+      "autonomousRollNo": "181NAC25010",
+      "examcode": 348316,
+      "name": "MONALISHA SAHOO",
+      "department": "Commerce",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Management Concept And Practices",
+          "midsemMark": 27,
+          "finalMark": 61
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Statistic management",
+          "midsemMark": 30,
+          "finalMark": 62
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Corporate Financial Accounting",
+          "midsemMark": 30,
+          "finalMark": 61
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Financial management",
+          "midsemMark": 27,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Accounting For Managerial Decission Making",
+          "midsemMark": 30,
+          "finalMark": 63
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Risk And Insurance Management",
+          "midsemMark": 27,
+          "finalMark": 63
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "COMM25-014",
+      "autonomousRollNo": "181NAC25011",
+      "examcode": 614436,
+      "name": "TULASI SAHOO",
+      "department": "Commerce",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Management Concept And Practices",
+          "midsemMark": 28,
+          "finalMark": 61
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Statistic management",
+          "midsemMark": 30,
+          "finalMark": 61
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Corporate Financial Accounting",
+          "midsemMark": 28,
+          "finalMark": 62
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Financial management",
+          "midsemMark": 27,
+          "finalMark": 58
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Accounting For Managerial Decission Making",
+          "midsemMark": 30,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Risk And Insurance Management",
+          "midsemMark": 26,
+          "finalMark": 61
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "COMM25-015",
+      "autonomousRollNo": "181NAC25012",
+      "examcode": 382742,
+      "name": "MEENA SAHOO",
+      "department": "Commerce",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Management Concept And Practices",
+          "midsemMark": 28,
+          "finalMark": 59
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Statistic management",
+          "midsemMark": 30,
+          "finalMark": 50
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Corporate Financial Accounting",
+          "midsemMark": 30,
+          "finalMark": 59
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Financial management",
+          "midsemMark": 28,
+          "finalMark": 63
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Accounting For Managerial Decission Making",
+          "midsemMark": 30,
+          "finalMark": 61
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Risk And Insurance Management",
+          "midsemMark": 28,
+          "finalMark": 56
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "COMM25-016",
+      "autonomousRollNo": "181NAC25013",
+      "examcode": 987157,
+      "name": "SAI ARPITA PALATA",
+      "department": "Commerce",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Management Concept And Practices",
+          "midsemMark": 28,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Statistic management",
+          "midsemMark": 30,
+          "finalMark": 64
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Corporate Financial Accounting",
+          "midsemMark": 30,
+          "finalMark": 57
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Financial management",
+          "midsemMark": 28,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Accounting For Managerial Decission Making",
+          "midsemMark": 30,
+          "finalMark": 62
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Risk And Insurance Management",
+          "midsemMark": 28,
+          "finalMark": 66
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "COMM25-017",
+      "autonomousRollNo": "181NAC25014",
+      "examcode": 778644,
+      "name": "BARSHA MOHARANA",
+      "department": "Commerce",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Management Concept And Practices",
+          "midsemMark": 28,
+          "finalMark": 62
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Statistic management",
+          "midsemMark": 30,
+          "finalMark": 57
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Corporate Financial Accounting",
+          "midsemMark": 30,
+          "finalMark": 53
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Financial management",
+          "midsemMark": 28,
+          "finalMark": 57
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Accounting For Managerial Decission Making",
+          "midsemMark": 30,
+          "finalMark": 57
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Risk And Insurance Management",
+          "midsemMark": 27,
+          "finalMark": 61
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "COMM25-019",
+      "autonomousRollNo": "181NAC25015",
+      "examcode": 977293,
+      "name": "S S SUDHANSHUBALA NAYAK",
+      "department": "Commerce",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Management Concept And Practices",
+          "midsemMark": 26,
+          "finalMark": 55
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Statistic management",
+          "midsemMark": 30,
+          "finalMark": 54
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Corporate Financial Accounting",
+          "midsemMark": 30,
+          "finalMark": 53
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Financial management",
+          "midsemMark": 27,
+          "finalMark": 55
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Accounting For Managerial Decission Making",
+          "midsemMark": 30,
+          "finalMark": 52
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Risk And Insurance Management",
+          "midsemMark": 27,
+          "finalMark": 55
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "COMM25-020",
+      "autonomousRollNo": "181NAC25016",
+      "examcode": 148468,
+      "name": "LAXMAN NAYAK",
+      "department": "Commerce",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Management Concept And Practices",
+          "midsemMark": 28,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Statistic management",
+          "midsemMark": 30,
+          "finalMark": 57
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Corporate Financial Accounting",
+          "midsemMark": 30,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Financial management",
+          "midsemMark": 27,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Accounting For Managerial Decission Making",
+          "midsemMark": 30,
+          "finalMark": 58
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Risk And Insurance Management",
+          "midsemMark": 27,
+          "finalMark": 59
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "GEOL25-001",
+      "autonomousRollNo": "155NAC25001",
+      "examcode": 273444,
+      "name": "ADYASA APARUPA BEHERA",
+      "department": "Geology",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Crystallography, mineralogy and mineral optics",
+          "midsemMark": 30,
+          "finalMark": 64
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Mineral deposits",
+          "midsemMark": 29,
+          "finalMark": 66
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Applied Economic Geology, Mineral Economics And Remote Sensing",
+          "midsemMark": 30,
+          "finalMark": 62
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Practical Corresponding To Theory Paper 1.1",
+          "midsemMark": 29,
+          "finalMark": 68
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Practical Corresponding To Theory Paper 1.2 & 1.3",
+          "midsemMark": 30,
+          "finalMark": 69
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "GEOL25-002",
+      "autonomousRollNo": "155NAC25002",
+      "examcode": 992299,
+      "name": "CHINMAYEE PANDA",
+      "department": "Geology",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Crystallography, mineralogy and mineral optics",
+          "midsemMark": 28,
+          "finalMark": 61
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Mineral deposits",
+          "midsemMark": 27,
+          "finalMark": 66
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Applied Economic Geology, Mineral Economics And Remote Sensing",
+          "midsemMark": 28,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Practical Corresponding To Theory Paper 1.1",
+          "midsemMark": 27,
+          "finalMark": 65
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Practical Corresponding To Theory Paper 1.2 & 1.4",
+          "midsemMark": 28,
+          "finalMark": 66
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "GEOL25-003",
+      "autonomousRollNo": "155NAC25003",
+      "examcode": 841429,
+      "name": "RUNUMANI SAHOO",
+      "department": "Geology",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Crystallography, mineralogy and mineral optics",
+          "midsemMark": 27,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Mineral deposits",
+          "midsemMark": 25,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Applied Economic Geology, Mineral Economics And Remote Sensing",
+          "midsemMark": 27,
+          "finalMark": 57
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Practical Corresponding To Theory Paper 1.1",
+          "midsemMark": 25,
+          "finalMark": 65
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Practical Corresponding To Theory Paper 1.2 & 1.5",
+          "midsemMark": 28,
+          "finalMark": 66
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "GEOL25-004",
+      "autonomousRollNo": "155NAC25004",
+      "examcode": 268561,
+      "name": "ARIYAMAN SINGH",
+      "department": "Geology",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Crystallography, mineralogy and mineral optics",
+          "midsemMark": 27,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Mineral deposits",
+          "midsemMark": 27,
+          "finalMark": 55
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Applied Economic Geology, Mineral Economics And Remote Sensing",
+          "midsemMark": 28,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Practical Corresponding To Theory Paper 1.1",
+          "midsemMark": 28,
+          "finalMark": 64
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Practical Corresponding To Theory Paper 1.2 & 1.6",
+          "midsemMark": 27,
+          "finalMark": 63
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "GEOL25-005",
+      "autonomousRollNo": "155NAC25005",
+      "examcode": 872794,
+      "name": "SILA BARIK",
+      "department": "Geology",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Crystallography, mineralogy and mineral optics",
+          "midsemMark": 27,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Mineral deposits",
+          "midsemMark": 26,
+          "finalMark": 66
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Applied Economic Geology, Mineral Economics And Remote Sensing",
+          "midsemMark": 26,
+          "finalMark": 61
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Practical Corresponding To Theory Paper 1.1",
+          "midsemMark": 28,
+          "finalMark": 68
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Practical Corresponding To Theory Paper 1.2 & 1.7",
+          "midsemMark": 28,
+          "finalMark": 67
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "GEOL25-007",
+      "autonomousRollNo": "155NAC25006",
+      "examcode": 481848,
+      "name": "Y S SONALI",
+      "department": "Geology",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Crystallography, mineralogy and mineral optics",
+          "midsemMark": 26,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Mineral deposits",
+          "midsemMark": 26,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Applied Economic Geology, Mineral Economics And Remote Sensing",
+          "midsemMark": 27,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Practical Corresponding To Theory Paper 1.1",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Practical Corresponding To Theory Paper 1.2 & 1.8",
+          "midsemMark": 0,
+          "finalMark": 0
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "GEOL25-008",
+      "autonomousRollNo": "155NAC25007",
+      "examcode": 979736,
+      "name": "ABHISHEK MISHRA",
+      "department": "Geology",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Crystallography, mineralogy and mineral optics",
+          "midsemMark": 27,
+          "finalMark": 40
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Mineral deposits",
+          "midsemMark": 26,
+          "finalMark": 48
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Applied Economic Geology, Mineral Economics And Remote Sensing",
+          "midsemMark": 26,
+          "finalMark": 42
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Practical Corresponding To Theory Paper 1.1",
+          "midsemMark": 26,
+          "finalMark": 63
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Practical Corresponding To Theory Paper 1.2 & 1.9",
+          "midsemMark": 28,
+          "finalMark": 63
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "GEOL25-009",
+      "autonomousRollNo": "155NAC25008",
+      "examcode": 765516,
+      "name": "SMRUTI SOHANA",
+      "department": "Geology",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Crystallography, mineralogy and mineral optics",
+          "midsemMark": 25,
+          "finalMark": 48
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Mineral deposits",
+          "midsemMark": 27,
+          "finalMark": 57
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Applied Economic Geology, Mineral Economics And Remote Sensing",
+          "midsemMark": 26,
+          "finalMark": 41
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Practical Corresponding To Theory Paper 1.1",
+          "midsemMark": 28,
+          "finalMark": 65
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Practical Corresponding To Theory Paper 1.2 & 1.10",
+          "midsemMark": 28,
+          "finalMark": 66
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "GEOL25-011",
+      "autonomousRollNo": "155NAC25009",
+      "examcode": 911254,
+      "name": "PRANATI PARIJA",
+      "department": "Geology",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Crystallography, mineralogy and mineral optics",
+          "midsemMark": 27,
+          "finalMark": 51
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Mineral deposits",
+          "midsemMark": 27,
+          "finalMark": 64
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Applied Economic Geology, Mineral Economics And Remote Sensing",
+          "midsemMark": 27,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Practical Corresponding To Theory Paper 1.1",
+          "midsemMark": 26,
+          "finalMark": 67
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Practical Corresponding To Theory Paper 1.2 & 1.11",
+          "midsemMark": 28,
+          "finalMark": 66
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "GEOL25-012",
+      "autonomousRollNo": "155NAC25010",
+      "examcode": 566218,
+      "name": "PRABHUDATTA MAHANTA",
+      "department": "Geology",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Crystallography, mineralogy and mineral optics",
+          "midsemMark": 28,
+          "finalMark": 36
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Mineral deposits",
+          "midsemMark": 26,
+          "finalMark": 63
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Applied Economic Geology, Mineral Economics And Remote Sensing",
+          "midsemMark": 26,
+          "finalMark": 39
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Practical Corresponding To Theory Paper 1.1",
+          "midsemMark": 26,
+          "finalMark": 63
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Practical Corresponding To Theory Paper 1.2 & 1.12",
+          "midsemMark": 26,
+          "finalMark": 63
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "GEOL25-013",
+      "autonomousRollNo": "155NAC25011",
+      "examcode": 199554,
+      "name": "POOJA RANI SINGH",
+      "department": "Geology",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Crystallography, mineralogy and mineral optics",
+          "midsemMark": 27,
+          "finalMark": 55
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Mineral deposits",
+          "midsemMark": 28,
+          "finalMark": 64
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Applied Economic Geology, Mineral Economics And Remote Sensing",
+          "midsemMark": 26,
+          "finalMark": 50
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Practical Corresponding To Theory Paper 1.1",
+          "midsemMark": 27,
+          "finalMark": 64
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Practical Corresponding To Theory Paper 1.2 & 1.13",
+          "midsemMark": 28,
+          "finalMark": 65
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "GEOL25-014",
+      "autonomousRollNo": "155NAC25012",
+      "examcode": 898669,
+      "name": "JYOTIPRAKASH SATAPATHY",
+      "department": "Geology",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Crystallography, mineralogy and mineral optics",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Mineral deposits",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Applied Economic Geology, Mineral Economics And Remote Sensing",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Practical Corresponding To Theory Paper 1.1",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Practical Corresponding To Theory Paper 1.2 & 1.14",
+          "midsemMark": 0,
+          "finalMark": 0
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "GEOL25-015",
+      "autonomousRollNo": "155NAC25013",
+      "examcode": 537445,
+      "name": "ABHIJIT RAY",
+      "department": "Geology",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Crystallography, mineralogy and mineral optics",
+          "midsemMark": 27,
+          "finalMark": 50
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Mineral deposits",
+          "midsemMark": 27,
+          "finalMark": 57
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Applied Economic Geology, Mineral Economics And Remote Sensing",
+          "midsemMark": 27,
+          "finalMark": 37
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Practical Corresponding To Theory Paper 1.1",
+          "midsemMark": 26,
+          "finalMark": 65
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Practical Corresponding To Theory Paper 1.2 & 1.15",
+          "midsemMark": 27,
+          "finalMark": 63
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "GEOL25-016",
+      "autonomousRollNo": "155NAC25014",
+      "examcode": 458813,
+      "name": "SASMITA SENAPATI",
+      "department": "Geology",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Crystallography, mineralogy and mineral optics",
+          "midsemMark": 27,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Mineral deposits",
+          "midsemMark": 26,
+          "finalMark": 63
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Applied Economic Geology, Mineral Economics And Remote Sensing",
+          "midsemMark": 27,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Practical Corresponding To Theory Paper 1.1",
+          "midsemMark": 26,
+          "finalMark": 65
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Practical Corresponding To Theory Paper 1.2 & 1.16",
+          "midsemMark": 27,
+          "finalMark": 65
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "GEOL25-017",
+      "autonomousRollNo": "155NAC25015",
+      "examcode": 364191,
+      "name": "ANISHA SAMAL",
+      "department": "Geology",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Crystallography, mineralogy and mineral optics",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Mineral deposits",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Applied Economic Geology, Mineral Economics And Remote Sensing",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Practical Corresponding To Theory Paper 1.1",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "Practical Corresponding To Theory Paper 1.2 & 1.17",
+          "midsemMark": 0,
+          "finalMark": 0
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MFC25-001",
+      "autonomousRollNo": "NACMFC25001",
+      "examcode": 968914,
+      "name": "BIBHUTI BHUSAN PRADHAN",
+      "department": "MFC",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Mcob",
+          "midsemMark": 24,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Eadm",
+          "midsemMark": 19,
+          "finalMark": 54
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Far",
+          "midsemMark": 26,
+          "finalMark": 58
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Qt",
+          "midsemMark": 27,
+          "finalMark": 50
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "MM",
+          "midsemMark": 18,
+          "finalMark": 59
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Fm",
+          "midsemMark": 12,
+          "finalMark": 55
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "BFE",
+          "midsemMark": 12,
+          "finalMark": 55
+        },
+        {
+          "paper": "Paper 1.8",
+          "paperName": "FMI",
+          "midsemMark": 24,
+          "finalMark": 59
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MFC25-002",
+      "autonomousRollNo": "NACMFC25002",
+      "examcode": 626587,
+      "name": "SANVI DASH",
+      "department": "MFC",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Mcob",
+          "midsemMark": 26,
+          "finalMark": 65
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Eadm",
+          "midsemMark": 27,
+          "finalMark": 64
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Far",
+          "midsemMark": 28,
+          "finalMark": 62
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Qt",
+          "midsemMark": 28,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "MM",
+          "midsemMark": 30,
+          "finalMark": 64
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Fm",
+          "midsemMark": 26,
+          "finalMark": 64
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "BFE",
+          "midsemMark": 28,
+          "finalMark": 63
+        },
+        {
+          "paper": "Paper 1.8",
+          "paperName": "FMI",
+          "midsemMark": 28,
+          "finalMark": 62
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MFC25-003",
+      "autonomousRollNo": "NACMFC25003",
+      "examcode": 445197,
+      "name": "JAYASHREE PALAURI",
+      "department": "MFC",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Mcob",
+          "midsemMark": 27,
+          "finalMark": 66
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Eadm",
+          "midsemMark": 29,
+          "finalMark": 65
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Far",
+          "midsemMark": 29,
+          "finalMark": 66
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Qt",
+          "midsemMark": 28,
+          "finalMark": 62
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "MM",
+          "midsemMark": 30,
+          "finalMark": 64
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Fm",
+          "midsemMark": 29,
+          "finalMark": 66
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "BFE",
+          "midsemMark": 28,
+          "finalMark": 65
+        },
+        {
+          "paper": "Paper 1.8",
+          "paperName": "FMI",
+          "midsemMark": 30,
+          "finalMark": 63
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MFC25-004",
+      "autonomousRollNo": "NACMFC25004",
+      "examcode": 331468,
+      "name": "BULU BISWAL",
+      "department": "MFC",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Mcob",
+          "midsemMark": 24,
+          "finalMark": 49
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Eadm",
+          "midsemMark": 18,
+          "finalMark": 53
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Far",
+          "midsemMark": 0,
+          "finalMark": 49
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Qt",
+          "midsemMark": 26,
+          "finalMark": 50
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "MM",
+          "midsemMark": 17,
+          "finalMark": 55
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Fm",
+          "midsemMark": 25,
+          "finalMark": 51
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "BFE",
+          "midsemMark": 13,
+          "finalMark": 54
+        },
+        {
+          "paper": "Paper 1.8",
+          "paperName": "FMI",
+          "midsemMark": 25,
+          "finalMark": 52
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MFC25-005",
+      "autonomousRollNo": "NACMFC25005",
+      "examcode": 717384,
+      "name": "MALAYA KUMAR JENA",
+      "department": "MFC",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Mcob",
+          "midsemMark": 25,
+          "finalMark": 58
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Eadm",
+          "midsemMark": 28,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Far",
+          "midsemMark": 28,
+          "finalMark": 59
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Qt",
+          "midsemMark": 27,
+          "finalMark": 58
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "MM",
+          "midsemMark": 26,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Fm",
+          "midsemMark": 28,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "BFE",
+          "midsemMark": 25,
+          "finalMark": 57
+        },
+        {
+          "paper": "Paper 1.8",
+          "paperName": "FMI",
+          "midsemMark": 28,
+          "finalMark": 55
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MFC25-006",
+      "autonomousRollNo": "NACMFC25006",
+      "examcode": 751522,
+      "name": "SATYABRATA RAUL",
+      "department": "MFC",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Mcob",
+          "midsemMark": 30,
+          "finalMark": 63
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Eadm",
+          "midsemMark": 28,
+          "finalMark": 63
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Far",
+          "midsemMark": 28,
+          "finalMark": 60
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Qt",
+          "midsemMark": 29,
+          "finalMark": 65
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "MM",
+          "midsemMark": 28,
+          "finalMark": 62
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Fm",
+          "midsemMark": 29,
+          "finalMark": 61
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "BFE",
+          "midsemMark": 27,
+          "finalMark": 64
+        },
+        {
+          "paper": "Paper 1.8",
+          "paperName": "FMI",
+          "midsemMark": 29,
+          "finalMark": 64
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MFC25-007",
+      "autonomousRollNo": "NACMFC25007",
+      "examcode": 912426,
+      "name": "PRAGYANPARIMITA KHATOI",
+      "department": "MFC",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Mcob",
+          "midsemMark": 29,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Eadm",
+          "midsemMark": 28,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Far",
+          "midsemMark": 28,
+          "finalMark": 58
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Qt",
+          "midsemMark": 29,
+          "finalMark": 57
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "MM",
+          "midsemMark": 30,
+          "finalMark": 58
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Fm",
+          "midsemMark": 28,
+          "finalMark": 58
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "BFE",
+          "midsemMark": 27,
+          "finalMark": 55
+        },
+        {
+          "paper": "Paper 1.8",
+          "paperName": "FMI",
+          "midsemMark": 28,
+          "finalMark": 54
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MFC25-008",
+      "autonomousRollNo": "NACMFC25008",
+      "examcode": 391974,
+      "name": "SUBHASMITA LENKA",
+      "department": "MFC",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Mcob",
+          "midsemMark": 11,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Eadm",
+          "midsemMark": 14,
+          "finalMark": 54
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Far",
+          "midsemMark": 18,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Qt",
+          "midsemMark": 21,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "MM",
+          "midsemMark": 12,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Fm",
+          "midsemMark": 11,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "BFE",
+          "midsemMark": 0,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.8",
+          "paperName": "FMI",
+          "midsemMark": 0,
+          "finalMark": 0
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MFC25-009",
+      "autonomousRollNo": "NACMFC25009",
+      "examcode": 321467,
+      "name": "ABHILIPSA NAYAK",
+      "department": "MFC",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Mcob",
+          "midsemMark": 23,
+          "finalMark": 52
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Eadm",
+          "midsemMark": 25,
+          "finalMark": 0
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Far",
+          "midsemMark": 26,
+          "finalMark": 54
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Qt",
+          "midsemMark": 22,
+          "finalMark": 52
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "MM",
+          "midsemMark": 27,
+          "finalMark": 53
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Fm",
+          "midsemMark": 27,
+          "finalMark": 52
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "BFE",
+          "midsemMark": 25,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.8",
+          "paperName": "FMI",
+          "midsemMark": 23,
+          "finalMark": 52
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MFC25-010",
+      "autonomousRollNo": "NACMFC25010",
+      "examcode": 412714,
+      "name": "SUBHASREE SUBHASMITA NAYAK",
+      "department": "MFC",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Mcob",
+          "midsemMark": 27,
+          "finalMark": 51
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Eadm",
+          "midsemMark": 26,
+          "finalMark": 57
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Far",
+          "midsemMark": 26,
+          "finalMark": 58
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Qt",
+          "midsemMark": 21,
+          "finalMark": 54
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "MM",
+          "midsemMark": 23,
+          "finalMark": 56
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Fm",
+          "midsemMark": 25,
+          "finalMark": 55
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "BFE",
+          "midsemMark": 24,
+          "finalMark": 55
+        },
+        {
+          "paper": "Paper 1.8",
+          "paperName": "FMI",
+          "midsemMark": 26,
+          "finalMark": 52
+        }
+      ]
+    },
+    {
+      "collegeRollNo": "MFC25-011",
+      "autonomousRollNo": "NACMFC25011",
+      "examcode": 598829,
+      "name": "SUBHASMITA CHHATOI",
+      "department": "MFC",
+      "courses": [
+        {
+          "paper": "Paper 1.1",
+          "paperName": "Mcob",
+          "midsemMark": 14,
+          "finalMark": 40
+        },
+        {
+          "paper": "Paper 1.2",
+          "paperName": "Eadm",
+          "midsemMark": 12,
+          "finalMark": 53
+        },
+        {
+          "paper": "Paper 1.3",
+          "paperName": "Far",
+          "midsemMark": 11,
+          "finalMark": 42
+        },
+        {
+          "paper": "Paper 1.4",
+          "paperName": "Qt",
+          "midsemMark": 24,
+          "finalMark": 46
+        },
+        {
+          "paper": "Paper 1.5",
+          "paperName": "MM",
+          "midsemMark": 16,
+          "finalMark": 51
+        },
+        {
+          "paper": "Paper 1.6",
+          "paperName": "Fm",
+          "midsemMark": 13,
+          "finalMark": 51
+        },
+        {
+          "paper": "Paper 1.7",
+          "paperName": "BFE",
+          "midsemMark": 12,
+          "finalMark": 51
+        },
+        {
+          "paper": "Paper 1.8",
+          "paperName": "FMI",
+          "midsemMark": 15,
+          "finalMark": 53
+        }
+      ]
+    }
+  ]
+}
