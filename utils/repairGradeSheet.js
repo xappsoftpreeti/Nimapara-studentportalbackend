@@ -54,11 +54,16 @@ const reconstructUgKeyedRow = (row, student) => {
     'Roll No': master.collegeRollNo,
     Department: master.department,
     Examcode: plain.examcode || '',
+    TotalCredit: plain.totalCredits,
+    TotalCreditPoint: plain.totalCreditPoints,
+    SGPA: plain.sgpa,
+    Classification: plain.classification,
+    Percentage: plain.percentage,
   };
 
   (plain.courses || []).forEach((course) => {
     if (!course.courseType) return;
-    out[course.courseType] = {
+    const paper = {
       Subject: course.subjectName,
       credit: course.credit,
       Credit: course.credit,
@@ -70,6 +75,18 @@ const reconstructUgKeyedRow = (row, student) => {
       'Grade Point': course.gradePoint,
       CreditPoint: course.creditPoint,
     };
+    out[course.courseType] = paper;
+    const compact = String(course.courseType)
+      .toUpperCase()
+      .replace(/[^A-Z0-9]/g, '');
+    if (compact.includes('MAJOR') && compact.includes('3')) out['Major-3'] = paper;
+    if (compact.includes('MAJOR') && compact.includes('4')) out['Major-4'] = paper;
+    if (compact.includes('MINOR')) out['MINOR-2(20)'] = paper;
+    if (compact.includes('MDC') || compact.includes('MULTIDISCIPLIN')) {
+      out['Multi Disciplinary-2'] = paper;
+    }
+    if (compact.includes('AEC')) out['AEC-2'] = paper;
+    if (compact.includes('SEC')) out['SEC-I'] = paper;
   });
 
   return out;
