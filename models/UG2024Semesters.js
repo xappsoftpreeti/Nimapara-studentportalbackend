@@ -75,6 +75,7 @@ function createUG2024SemesterModel(modelName, collectionName, defaultSemester) {
 const UG2024SecondSem = createUG2024SemesterModel('UG2024SecondSem', '2nd-sem-2024', 2);
 const UG2024ThirdSem = createUG2024SemesterModel('UG2024ThirdSem', '3rd-sem-2024', 3);
 const UG2024FourthSem = createUG2024SemesterModel('UG2024FourthSem', '4th-sem-2024', 4);
+const UG2024FifthSem = createUG2024SemesterModel('UG2024FifthSem', '5th-sem-2024', 5);
 
 module.exports = {
   courseSchema,
@@ -82,4 +83,5 @@ module.exports = {
   UG2024SecondSem,
   UG2024ThirdSem,
   UG2024FourthSem,
+  UG2024FifthSem,
 };
