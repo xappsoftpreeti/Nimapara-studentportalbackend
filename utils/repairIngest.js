@@ -120,19 +120,38 @@ const toNum = (value) => {
   return Number.isFinite(num) ? num : undefined;
 };
 
+const componentInternal = (course) => {
+  const parts = [
+    course.attandance,
+    course.attendance,
+    course.surpriseTest,
+    course.assignment,
+    course.iPractical,
+  ];
+  if (parts.every((value) => value === undefined || value === null || value === '')) {
+    return toNum(course.internal);
+  }
+  return (
+    (toNum(course.attandance) || toNum(course.attendance) || 0) +
+    (toNum(course.surpriseTest) || 0) +
+    (toNum(course.assignment) || 0) +
+    (toNum(course.iPractical) || 0)
+  );
+};
+
 const normalizeCourse = (course) => ({
   subjectName: course.subjectName || course.paperName || course.Subject || course.title || '',
   courseType: course.courseType || course.paperCode || course.paper?.code || course.code || '',
   credit: toNum(course.credit),
+  midsem: toNum(course.midsem ?? course.midsemMark),
   theory: toNum(course.theory ?? course.endsem ?? course.finalMark),
-  internal: toNum(course.internal ?? course.midsem ?? course.midsemMark),
+  internal: componentInternal(course),
   practical: toNum(course.practical ?? course.practicalMark),
   marks: toNum(course.marks ?? course.totalMark ?? course.TotalMark ?? course.totalMarks),
   grade: course.grade || course.Grade || '',
   gradePoint: toNum(course.gradePoint ?? course['Grade Point']),
   creditPoint: toNum(course.creditPoint ?? course.CreditPoint),
   percentage: toNum(course.percentage),
-  midsem: toNum(course.midsem ?? course.midsemMark),
   endsem: toNum(course.endsem ?? course.finalMark),
 });
 

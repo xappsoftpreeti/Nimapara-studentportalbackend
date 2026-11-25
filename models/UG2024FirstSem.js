@@ -5,6 +5,7 @@ const courseSchema = new mongoose.Schema(
     subjectName: { type: String, required: true, trim: true },
     courseType: { type: String, required: false, trim: true },
     credit: { type: Number, required: false },
+    midsem: { type: Number, required: false },
     theory: { type: Number, required: false },
     internal: { type: Number, required: false },
     practical: { type: Number, required: false },

@@ -167,6 +167,7 @@ const mergeUgCourses = (existingCourses = [], incomingCourses = []) => {
         subjectName,
         courseType,
         credit: incoming.credit,
+        midsem: incoming.midsem,
         theory: incoming.theory,
         internal: incoming.internal,
         practical: incoming.practical,
